@@ -24,3 +24,5 @@ Aqui irei compartilhar alguns projetos, então fique a vontade e se desejar pode
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gilmaralopes&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilmaralopes&hide=TeX&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilmaralopes&theme=dark&show_icons=true)
+
